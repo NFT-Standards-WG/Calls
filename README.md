@@ -1,9 +1,11 @@
 # NFT WG EIP Meets
 
-## About
-NFT Standards is going to start hosting regular, bi-weekly calls - Meets 🐝
+Meets are Bi-weekly calls of the NFT Standards WG 🥝
+These calls will be topic specific - each call will have it's own topic and we will be discussing EIPs relevant to the topic.
 
-Those calls will be topic specific and we will be discussing a few EIPs related to the topic with authors. 
+Meets are trying to be more collaborative hence we will be using GitHub Issues format for these calls so anyone can propose topic and EIPs that will be discussed. The agenda will be set few days prior to the Meet itself.
+
+These calls will be co-hosted by the EIP Editors
 
 ## FAQs:
 
